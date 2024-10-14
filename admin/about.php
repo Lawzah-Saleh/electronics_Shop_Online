@@ -3,7 +3,7 @@ include('header.php');
 require('dbconnect.php');
 ?>
         
-        
+<!-- HERE are how change whta ia display in the website about us  -->       
         <!-- /. NAV SIDE  -->
         <div id="page-wrapper">
             <div id="page-inner">
